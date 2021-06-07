@@ -7,3 +7,12 @@ Recap of year and ranking of competitors.
 |Slogan :|Building Bridges|Come Together|Celebrate Diversity|All Aboard|Dare To Dream|😷|OpenUp|🕑|
 |Winner :|🇸🇪Sweden|🇺🇦Ukraine|🇵🇹Portugal|🇮🇱Israel|🇳🇱Pays-Bas|😷|🇮🇹Italie|🕑|
 |Loser :|🇦🇹Austria|🇩🇪Germany|🇪🇸Spain|🇵🇹Portugal|🇪🇸Espagne|😷|🇬🇧UK|🕑|
+
+---
+
+|Years|2️⃣0️⃣2️⃣2️⃣|
+| :---|:-------:|
+|Country host :|🇮🇹Italie|
+|Slogan :|🕑|
+|Winner :|🕑|
+|Loser :|🕑|
